@@ -7,7 +7,7 @@
 [![Issues](https://img.shields.io/github/issues/rvellaturi/data-architecture-patterns)](https://github.com/rvellaturi/data-architecture-patterns/issues)
 [![License](https://img.shields.io/github/license/rvellaturi/data-architecture-patterns)](LICENSE)
 
-**📊 Used by 500+ data teams | ⭐ 1,200+ GitHub stars | 🔗 Featured in 50+ tech blogs**
+**🚀 Comprehensive guide to modern data architecture patterns for enterprise implementations**
 
 ---
 
@@ -17,10 +17,10 @@ This repository provides battle-tested data architecture patterns used by Fortun
 
 ### 🚀 **Quick Navigation**
 - [🏛️ Architecture Patterns](#architecture-patterns)
-- [⚡ Quick Start Guide](#quick-start)
+- [⚡ Quick Start Guide](#quick-start-guide)
 - [🛠️ Implementation Examples](#implementation-examples)
 - [📊 Decision Framework](#decision-framework)
-- [🎯 Use Cases](#use-cases)
+- [🎯 Use Cases](#use-cases-by-industry)
 
 ---
 
