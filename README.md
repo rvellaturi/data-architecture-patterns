@@ -279,20 +279,22 @@ Comprehensive testing approaches:
 
 ## 📚 **Resources**
 
-### 📖 **Deep Dive Guides**
-- [Complete Lakehouse Implementation Guide](guides/lakehouse-complete.md)
-- [Event-Driven Architecture Best Practices](guides/event-driven-best-practices.md)
-- [Data Mesh Implementation Roadmap](guides/data-mesh-roadmap.md)
+### 📖 **Deep Dive Guides** *(Coming Soon)*
+- Complete Lakehouse Implementation Guide
+- Event-Driven Architecture Best Practices  
+- Data Mesh Implementation Roadmap
 
-### 🎥 **Video Tutorials**
-- [Architecture Pattern Selection (15 min)](videos/pattern-selection.md)
-- [Lakehouse Implementation Walkthrough (45 min)](videos/lakehouse-implementation.md)
-- [Event-Driven Design Principles (30 min)](videos/event-driven-principles.md)
+### 🎥 **Video Tutorials** *(Planned)*
+- Architecture Pattern Selection (15 min)
+- Lakehouse Implementation Walkthrough (45 min)
+- Event-Driven Design Principles (30 min)
 
-### 🛠️ **Tools & Templates**
-- [Architecture Decision Records (ADR) Templates](templates/adr/)
-- [Cost Estimation Spreadsheets](templates/cost-estimation/)
-- [Performance Benchmarking Tools](tools/benchmarking/)
+### 🛠️ **Tools & Templates** *(In Development)*
+- Architecture Decision Records (ADR) Templates
+- Cost Estimation Spreadsheets
+- Performance Benchmarking Tools
+
+*These resources will be added progressively. [Star this repository](https://github.com/rvellaturi/data-architecture-patterns) to get notified of updates!*
 
 ---
 
@@ -313,7 +315,7 @@ We welcome contributions! Here's how to help:
 4. Include real-world metrics where possible
 5. Submit a pull request
 
-**[Read full contribution guidelines](CONTRIBUTING.md)**
+**[Read contribution guidelines](CONTRIBUTING.md)** *(coming soon)*
 
 ---
 
@@ -326,10 +328,10 @@ We welcome contributions! Here's how to help:
 > *"The Event-Driven pattern enabled us to detect fraud 90% faster, saving millions in losses."*  
 > **— Senior Architect, Financial Services**
 
-### 💬 **Discussions**
-- [💡 Pattern Ideas](https://github.com/rvellaturi/data-architecture-patterns/discussions/categories/ideas)
-- [❓ Implementation Questions](https://github.com/rvellaturi/data-architecture-patterns/discussions/categories/q-a)
-- [📊 Performance Results](https://github.com/rvellaturi/data-architecture-patterns/discussions/categories/show-and-tell)
+### 💬 **Discussions** *(Available once repository is created)*
+- Pattern Ideas and Suggestions
+- Implementation Questions & Answers  
+- Performance Results and Case Studies
 
 ---
 
