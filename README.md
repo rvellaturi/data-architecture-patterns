@@ -177,7 +177,7 @@ This repository provides battle-tested data architecture patterns used by Fortun
 
 ### 🎯 **Step 2: Choose Your Pattern**
 
-Use our **[Interactive Decision Tree](decision-tree.md)** to find the best pattern for your use case.
+Use our **Pattern Selection Guide** (coming soon) to find the best pattern for your use case.
 
 ### 🎯 **Step 3: Implementation**
 
@@ -207,11 +207,13 @@ Each pattern includes:
 
 ### 🎯 **ROI Calculator**
 
-**[Use our ROI Calculator](roi-calculator.html)** to estimate:
-- Implementation costs
-- Operational expenses
-- Time to value
-- Resource requirements
+**ROI Calculator Coming Soon** - We're building an interactive tool to estimate:
+- Implementation costs for each pattern
+- Operational expenses over time
+- Time to value projections
+- Resource requirements planning
+
+*This will be one of our first interactive tools. [Follow this repository](https://github.com/rvellaturi/data-architecture-patterns) for updates!*
 
 ---
 
